@@ -6,7 +6,7 @@
 
 🚀 Working on: Reinventing access control with crypto in "CryptoDyno."
 
-💬 Ask me about: Java, Spring Boot, Hibernate, MySQL, Git, Spring Security, APIs, and Web Security.
+💬 Ask me about: Java, Spring Boot, Hibernate, MySQL, Git, Spring Security, APIs, and MongoDB.
 
 📧 Reach me at: ravies728@gmail.com.
 
