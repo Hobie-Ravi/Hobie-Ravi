@@ -4,9 +4,9 @@
 
 # Hello! 👋 I'm Ravi,
 
-🚀 Working on: Reinventing access control with crypto in "CryptoDyno."
+🚀 Worked on: Reinventing access control with crypto in "CryptoDyno." and developed front-end unique style of sign-in & sign-up using HTML and CSS
 
-💬 Ask me about: Java, Spring Boot, Hibernate, MySQL, Git, Spring Security, APIs, and MongoDB.
+💬 Ask me about: Java, Spring Boot, Hibernate, MySQL, Git & GitHub, Spring Security, APIs, HTML, CSS and MongoDB.
 
 📧 Reach me at: ravies728@gmail.com.
 
