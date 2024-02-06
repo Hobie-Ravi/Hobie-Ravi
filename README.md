@@ -4,7 +4,7 @@
 
 # Hello! 👋 I'm Ravi,
 
-As a BCA graduate, I've mastered Java development through Udemy course
+As a BCA graduate, I've mastered Java development,Git & GitHub through Udemy course
 
 Java/J2EE technologies
 Core Knowledge on Java Concepts.
