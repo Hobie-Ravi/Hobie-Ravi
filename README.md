@@ -4,9 +4,25 @@
 
 # Hello! 👋 I'm Ravi,
 
-🚀 Worked on: Reinventing access control with crypto in "CryptoDyno." and developed front-end unique style of sign-in & sign-up using HTML and CSS
+As a BCA graduate, I've mastered Java development through Udemy course
 
-💬 Ask me about: Java, Spring Boot, Hibernate, MySQL, Git & GitHub, Spring Security, APIs, HTML, CSS and MongoDB.
+Java/J2EE technologies
+Core Knowledge on Java Concepts.
+Hands on experience in Spring Boot Frame works.
+Hands on experience in Spring Data JPA.
+Hands on experience in Restful Web service.
+Hands on experience in Databases like MYSQL and basic's in NOSQL.
+
+
+I have actively contributed to three significant projects, including the development of Crypto-Dyno—a secure file management system leveraging Java, Spring Boot, Hibernate, AES Encryption, JCE Policy files, cryptography, and MySQL. In the Crypto-Dyno project, I integrated essential features such as role-based access control authentication, key rotation mechanisms, re-encryption of files, and seamless updates to previously encrypted files. 
+
+Additionally, I have actively pursued certifications on platforms like Udemy and gained virtual software engineering experience at Hewlett Packard Enterprise through the Forage platform. 
+
+Currently, I am further enhancing my skill set by pursuing certification in Agile and Scrum methodologies, recognizing the importance of adaptability and collaborative workflows in modern software development environments.
+
+I am eager to apply my technical acumen to dynamic software development projects, where I can tackle real-world challenges and contribute to innovative solutions.
+
+💬 Ask me about: Java, Spring Boot, Redis cache, Hibernate, MySQL, Git & GitHub, Spring Security, APIs, HTML, CSS and MongoDB, JSP.
 
 📧 Reach me at: ravies728@gmail.com.
 
